@@ -1,8 +1,24 @@
 {
-  "posts": [
+  "responses": [
     {
       "id": 1,
-      "title": "hello"
+      "result": "success",
+      "ticketNumber": "123.456"
+    },
+   {
+      "id": 2,
+      "result": "fail",
+      "errorMessage": "Error 1"
+    },
+   {
+      "id": 3,
+      "result": "success",
+      "ticketNumber": "123.456"
+    },
+   {
+      "id": 4,
+      "result": "fail",
+      "errorMessage": "Error 2"
     }
   ],
   "profile": {
