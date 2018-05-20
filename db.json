@@ -2,23 +2,21 @@
   "responses": [
     {
       "id": 1,
-      "result": "success",
+      "status": "success",
       "ticketNumber": "123.456"
     },
    {
       "id": 2,
-      "result": "fail",
-      "errorMessage": "Error 1"
+      "status": "Error 1",
     },
    {
       "id": 3,
-      "result": "success",
+      "status": "success",
       "ticketNumber": "123.456"
     },
    {
       "id": 4,
-      "result": "fail",
-      "errorMessage": "Error 2"
+      "status": "Error 2"
     }
   ],
   "profile": {
